@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Devansh2518
 - 👀 I’m interested in Web Dev, Data Structures, UI/UX Designing & I enjoy learning new things.
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Community Learning.
 - 📫 How to reach me Drop your mail at devanshpundir427@gmail.com
 
 <!---
